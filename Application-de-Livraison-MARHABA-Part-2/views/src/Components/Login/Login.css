@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body input[type=email], input[type=password]{
+    width: 50%;
+    align-items: center;
+    border-radius: 5px;
+}
+body input[type=email]{
+    margin-top: 50px;
+}
+form {
+    height: 200px;
+    background-color: black;
+    border-radius: 10px;
+
+}

@@ -1,0 +1,11 @@
+export {default as Register} from './Register/Register';
+export {default as Login} from './Login/Login';
+export {default as ResetPassword} from './ResetPassword/ResetPassword';
+export {default as ForgetPassword} from './ForgetPassword/ForgetPassword';
+export {default as Client} from './Client/Client';
+export {default as Manager} from './Manager/Manager';
+export {default as Livreur} from './Livreur/Livreur';
+export {default as NavBar} from './NavBar/NavBar';
+export {default as NotFound} from './NotFound/NotFound';
+// export {default as PrivateRoute} from './PrivateRoute/PrivateRoute';
+// export {default as RoleRoute} from './RoleRoute/RoleRoute';
